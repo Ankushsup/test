@@ -1,0 +1,5 @@
+hadoop@admin1-H110M-S2:~$ start-all.sh
+
+hadoop@admin1-H110M-S2:~$ jps
+
+wordcount hadoop
